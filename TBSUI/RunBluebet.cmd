@@ -1,1 +1,0 @@
-RunCategoryTest.cmd oldwebsiteplacebet
