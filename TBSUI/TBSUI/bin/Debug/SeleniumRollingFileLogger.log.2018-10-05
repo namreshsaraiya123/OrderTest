@@ -1,0 +1,11 @@
+05-Oct-2018-11:51:30 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+05-Oct-2018-11:51:33 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+05-Oct-2018-11:51:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+05-Oct-2018-11:51:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+05-Oct-2018-11:51:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.29120452521055595-1)
+05-Oct-2018-11:52:42 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/220694/win
+05-Oct-2018-11:52:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Oct-2018-11:52:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Oct-2018-11:52:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Oct-2018-13:38:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Quinella bet on the old site.jpeg
+05-Oct-2018-13:38:53 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

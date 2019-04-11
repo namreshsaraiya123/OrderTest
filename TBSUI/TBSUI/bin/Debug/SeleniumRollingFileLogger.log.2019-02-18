@@ -1,0 +1,98 @@
+18-Feb-2019-16:38:27 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-Feb-2019-16:38:31 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-Feb-2019-16:38:39 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+18-Feb-2019-16:38:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+18-Feb-2019-16:38:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Giant6 bet and place the bet.jpeg
+18-Feb-2019-16:38:58 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-Feb-2019-16:39:30 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-Feb-2019-16:39:33 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-Feb-2019-16:39:38 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+18-Feb-2019-16:39:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+18-Feb-2019-16:39:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.4799529219429186-1)
+18-Feb-2019-16:40:07 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/262529/win
+18-Feb-2019-16:40:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:40:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:40:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:40:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:40:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:40:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:40:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Giant6 bet and place the bet on the old site.jpeg
+18-Feb-2019-16:40:45 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-Feb-2019-16:41:18 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-Feb-2019-16:41:21 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-Feb-2019-16:41:31 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+18-Feb-2019-16:41:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+18-Feb-2019-16:41:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.890704735761916-1)
+18-Feb-2019-16:42:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/262539/win
+18-Feb-2019-16:42:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:42:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:42:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:42:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:42:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:42:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:43:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Giant6 bet and place the bet on the old site.jpeg
+18-Feb-2019-16:43:05 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-Feb-2019-16:46:27 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-Feb-2019-16:46:30 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-Feb-2019-16:46:40 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+18-Feb-2019-16:46:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+18-Feb-2019-16:46:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2534121956311486-1)
+18-Feb-2019-16:47:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/262549/win
+18-Feb-2019-16:47:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:47:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:47:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:47:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:47:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:47:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:48:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Giant6 bet and place the bet on the old site.jpeg
+18-Feb-2019-16:48:18 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-Feb-2019-16:51:59 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-Feb-2019-16:52:02 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-Feb-2019-16:52:14 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+18-Feb-2019-16:52:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+18-Feb-2019-16:52:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2881214703609538-1)
+18-Feb-2019-16:52:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/262559/win
+18-Feb-2019-16:52:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:52:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:53:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:53:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:53:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:53:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:54:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Giant6 bet and place the bet on the old site.jpeg
+18-Feb-2019-16:54:08 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-Feb-2019-16:54:51 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-Feb-2019-16:54:54 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-Feb-2019-16:55:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+18-Feb-2019-16:55:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+18-Feb-2019-16:55:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.16634850513349608-1)
+18-Feb-2019-16:55:38 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/262569/win
+18-Feb-2019-16:55:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:55:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:55:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:55:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-16:55:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-16:55:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-16:58:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Giant6 bet and place the bet on the old site.jpeg
+18-Feb-2019-16:58:04 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-Feb-2019-17:00:14 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-Feb-2019-17:00:17 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-Feb-2019-17:00:27 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+18-Feb-2019-17:00:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+18-Feb-2019-17:00:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.594208932258677-1)
+18-Feb-2019-17:01:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/262579/win
+18-Feb-2019-17:01:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-17:01:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-17:01:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-17:02:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-17:02:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-17:02:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-17:02:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-17:02:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-17:02:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-17:02:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-17:02:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-17:02:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-Feb-2019-17:02:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-Feb-2019-17:02:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-Feb-2019-17:03:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Giant6 bet and place the bet on the old site.jpeg
+18-Feb-2019-17:03:55 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

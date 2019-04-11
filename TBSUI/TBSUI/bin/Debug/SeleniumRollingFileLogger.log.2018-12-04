@@ -1,0 +1,206 @@
+04-Dec-2018-11:04:50 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2018-11:04:54 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Dec-2018-11:04:57 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:05:07 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:05:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify all correct next 5 horse races are available.jpeg
+04-Dec-2018-11:05:52 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+04-Dec-2018-11:09:14 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2018-11:09:17 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Dec-2018-11:09:21 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:09:42 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:11:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify all correct next 5 horse races are available.jpeg
+04-Dec-2018-11:11:59 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+04-Dec-2018-11:25:46 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2018-11:25:50 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Dec-2018-11:25:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:25:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:25:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:25:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:25:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Racing/Scone/Race-8/238790/multiple/443401/RC-GIANT6/NSW/6']
+04-Dec-2018-11:25:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Racing/Hamilton/Race-8/238810/multiple/443203/RC-GIANT6/VIC/6']
+04-Dec-2018-11:26:00 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:26:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240273/win
+04-Dec-2018-11:26:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:26:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:26:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:26:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:26:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:26:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:26:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:26:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='trots']/div[1]/div/div/div/h1
+04-Dec-2018-11:26:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.9820218801558971-3)
+04-Dec-2018-11:26:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:26:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:26:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:26:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:26:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443957/RC-QUADDIE/NSW/4']
+04-Dec-2018-11:26:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443563/RC-QUADDIE/VIC/4']
+04-Dec-2018-11:26:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Greyhound/Devonport/Race-8/238772/multiple/443521/RC-QUADDIE/Tatts/4']
+04-Dec-2018-11:26:41 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:26:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/section/div/div/section/a/div[1]/p[1]
+04-Dec-2018-11:26:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5692937503591635-2)
+04-Dec-2018-11:26:47 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:26:49 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify all correct next 5 harness races are available.jpeg
+04-Dec-2018-11:26:50 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:26:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='thoroughbreds']/div[1]/div/div/div/h1
+04-Dec-2018-11:26:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.18307126594673595-2)
+04-Dec-2018-11:26:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:27:12 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240284/win
+04-Dec-2018-11:27:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:27:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:27:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:27:20 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:27:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240294/win
+04-Dec-2018-11:27:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:27:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:27:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:27:55 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:27:57 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:28:18 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240304/win
+04-Dec-2018-11:28:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:28:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:28:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:28:26 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:28:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify all correct next 5 races are available.jpeg
+04-Dec-2018-11:28:28 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:28:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:28:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:28:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:28:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Greyhound/Devonport/Race-8/238772/multiple/443522/RC-TREBLE/Tatts/3']
+04-Dec-2018-11:28:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5947268697197328-4)
+04-Dec-2018-11:28:30 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:28:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:28:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:28:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:28:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Greyhound/Devonport/Race-4/238768/multiple/443520/RC-EDBL/Tatts/2']
+04-Dec-2018-11:28:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7691413158266454-4)
+04-Dec-2018-11:28:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:28:57 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240314/win
+04-Dec-2018-11:28:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:28:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:28:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:29:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:29:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:29:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:29:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:29:07 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:29:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:29:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240324/win
+04-Dec-2018-11:29:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:29:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:29:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:29:39 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:29:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:29:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:29:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:29:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443958/RC-DBL/NSW/2']
+04-Dec-2018-11:29:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443564/RC-DBL/VIC/2']
+04-Dec-2018-11:29:44 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:29:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:29:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:29:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:29:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='greyhounds']/div[1]/div/div/div/h1
+04-Dec-2018-11:29:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6929306031774234-3)
+04-Dec-2018-11:29:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:29:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/section/div[1]/div/div/div[1]/h5
+04-Dec-2018-11:29:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.585829259764777-3)
+04-Dec-2018-11:29:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:30:13 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240335/win
+04-Dec-2018-11:30:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:30:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:30:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:30:21 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+04-Dec-2018-11:33:06 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+04-Dec-2018-11:33:09 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+04-Dec-2018-11:33:11 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:33:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify correct race are highligted for the giant6 multi exotics.jpeg
+04-Dec-2018-11:33:14 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:33:39 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240345/win
+04-Dec-2018-11:33:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:33:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:33:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:33:44 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:33:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:33:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:33:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:33:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='trots']/div[1]/div/div/div/h1
+04-Dec-2018-11:33:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3725246988105828-3)
+04-Dec-2018-11:33:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:33:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:33:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:33:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:33:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443957/RC-QUADDIE/NSW/4']
+04-Dec-2018-11:33:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443563/RC-QUADDIE/VIC/4']
+04-Dec-2018-11:33:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Greyhound/Devonport/Race-8/238772/multiple/443521/RC-QUADDIE/Tatts/4']
+04-Dec-2018-11:33:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:33:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/section/div/div/section/a/div[1]/p[1]
+04-Dec-2018-11:33:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.69524604782225-2)
+04-Dec-2018-11:33:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:34:02 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:34:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='thoroughbreds']/div[1]/div/div/div/h1
+04-Dec-2018-11:34:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.030269491994940667-2)
+04-Dec-2018-11:34:03 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:34:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240356/win
+04-Dec-2018-11:34:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:34:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:34:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:34:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:34:55 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240366/win
+04-Dec-2018-11:34:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:34:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:34:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:35:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:35:10 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:35:41 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240376/win
+04-Dec-2018-11:35:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:35:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:35:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:35:51 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:35:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:35:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:35:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:35:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:35:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Greyhound/Devonport/Race-8/238772/multiple/443522/RC-TREBLE/Tatts/3']
+04-Dec-2018-11:35:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5010534283067438-4)
+04-Dec-2018-11:35:55 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:35:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:35:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:35:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:35:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Australian-Greyhound/Devonport/Race-4/238768/multiple/443520/RC-EDBL/Tatts/2']
+04-Dec-2018-11:35:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.07055737470847512-4)
+04-Dec-2018-11:35:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:36:29 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240386/win
+04-Dec-2018-11:36:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:36:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:36:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:36:37 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:36:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:36:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:36:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:36:39 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:36:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:37:03 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240396/win
+04-Dec-2018-11:37:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:37:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:37:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:37:13 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:37:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:37:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:37:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:37:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443958/RC-DBL/NSW/2']
+04-Dec-2018-11:37:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/Overseas-Trots/Northfield-Park/Race-12/239674/multiple/443564/RC-DBL/VIC/2']
+04-Dec-2018-11:37:20 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:37:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:37:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:37:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:37:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //*[@id='greyhounds']/div[1]/div/div/div/h1
+04-Dec-2018-11:37:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6734281210894759-3)
+04-Dec-2018-11:37:22 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:37:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/section/div[1]/div/div/div[1]/h5
+04-Dec-2018-11:37:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6692902715557862-3)
+04-Dec-2018-11:37:29 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+04-Dec-2018-11:37:48 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/240407/win
+04-Dec-2018-11:37:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+04-Dec-2018-11:37:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+04-Dec-2018-11:37:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+04-Dec-2018-11:37:55 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

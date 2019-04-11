@@ -1,0 +1,18 @@
+20-Sep-2018-14:23:11 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+20-Sep-2018-14:23:15 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+20-Sep-2018-14:25:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Quinella bet on the old site.jpeg
+20-Sep-2018-14:25:29 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+20-Sep-2018-14:26:01 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+20-Sep-2018-14:26:04 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+20-Sep-2018-14:28:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Quinella bet on the old site.jpeg
+20-Sep-2018-14:28:04 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+20-Sep-2018-14:29:16 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+20-Sep-2018-14:29:20 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+20-Sep-2018-14:30:10 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:62893/
+20-Sep-2018-14:30:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+20-Sep-2018-14:31:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+20-Sep-2018-14:32:11 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+20-Sep-2018-14:33:49 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://localhost:62893/Australian-Racing/Muswellbrook/Race-1/217405/Win
+20-Sep-2018-14:36:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+20-Sep-2018-14:36:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+20-Sep-2018-14:36:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 

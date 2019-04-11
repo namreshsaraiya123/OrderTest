@@ -1,0 +1,31 @@
+22-May-2018-11:16:23 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+22-May-2018-11:16:26 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+22-May-2018-11:16:38 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+22-May-2018-11:16:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+22-May-2018-11:17:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161883/Win
+22-May-2018-11:17:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+22-May-2018-11:17:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+22-May-2018-11:17:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+22-May-2018-11:19:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+22-May-2018-11:19:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5266047761710932-6)
+22-May-2018-11:19:12 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+22-May-2018-14:14:46 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+22-May-2018-14:14:49 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+22-May-2018-14:14:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+22-May-2018-14:15:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+22-May-2018-14:15:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/162583/Win
+22-May-2018-14:15:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+22-May-2018-14:15:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+22-May-2018-14:15:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+22-May-2018-14:15:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+22-May-2018-14:15:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2310396719756458-12)
+22-May-2018-14:15:49 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+22-May-2018-14:28:46 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+22-May-2018-14:28:49 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+22-May-2018-14:28:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+22-May-2018-14:29:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+22-May-2018-14:29:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/162591/Win
+22-May-2018-14:29:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+22-May-2018-14:29:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+22-May-2018-14:29:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+22-May-2018-14:29:59 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

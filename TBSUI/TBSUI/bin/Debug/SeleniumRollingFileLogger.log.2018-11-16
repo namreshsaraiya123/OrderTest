@@ -1,0 +1,111 @@
+16-Nov-2018-11:10:15 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-11:10:18 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-11:10:36 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-11:10:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-11:10:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.1989655895796727-1)
+16-Nov-2018-11:11:08 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/231762/win
+16-Nov-2018-11:11:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+16-Nov-2018-11:11:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+16-Nov-2018-11:11:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+16-Nov-2018-11:11:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //i[@class = 'icon-checkmark']
+16-Nov-2018-11:11:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.29087277344281337-12)
+16-Nov-2018-11:11:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:11:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:11:34 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:22:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //b[text() ='Lose']
+16-Nov-2018-11:22:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.29087277344281337-22)
+16-Nov-2018-11:22:07 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+16-Nov-2018-11:38:58 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-11:39:02 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-11:39:13 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-11:39:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-11:39:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2975180052000719-1)
+16-Nov-2018-11:39:51 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/231772/win
+16-Nov-2018-11:39:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+16-Nov-2018-11:39:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+16-Nov-2018-11:39:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+16-Nov-2018-11:40:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //i[@class = 'icon-checkmark']
+16-Nov-2018-11:40:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.23816660864588846-12)
+16-Nov-2018-11:40:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:40:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:40:19 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:41:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //b[text() ='Lose']
+16-Nov-2018-11:41:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.23816660864588846-22)
+16-Nov-2018-11:41:13 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+16-Nov-2018-11:43:00 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-11:43:03 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-11:43:40 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-11:43:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-11:43:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7027966663416374-1)
+16-Nov-2018-11:44:13 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/231782/win
+16-Nov-2018-11:44:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+16-Nov-2018-11:44:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+16-Nov-2018-11:44:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+16-Nov-2018-11:44:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //i[@class = 'icon-checkmark']
+16-Nov-2018-11:44:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2940739075495282-12)
+16-Nov-2018-11:44:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:44:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:44:37 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-11:45:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //b[text() ='Lose']
+16-Nov-2018-11:45:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2940739075495282-24)
+16-Nov-2018-11:45:38 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+16-Nov-2018-14:31:45 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-14:31:49 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-14:32:01 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-14:32:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-14:32:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[text()= 'Your account has been successfully funded']
+16-Nov-2018-14:32:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.859663242009364-8)
+16-Nov-2018-14:32:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-14:32:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-14:32:39 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-14:33:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //b[text() = 'Deposit - Credit Card']
+16-Nov-2018-14:33:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.859663242009364-17)
+16-Nov-2018-14:33:09 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+16-Nov-2018-14:47:10 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-14:47:14 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-14:47:28 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-14:47:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-14:48:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[text()= 'Your account has been successfully funded']
+16-Nov-2018-14:48:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3498873497926209-8)
+16-Nov-2018-14:48:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-14:48:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-14:48:08 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+16-Nov-2018-14:49:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //b[text() = 'Deposit - Credit Card']
+16-Nov-2018-14:49:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify Deposit Custom Filter.jpeg
+16-Nov-2018-14:49:49 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+16-Nov-2018-14:59:09 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-14:59:12 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-14:59:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-14:59:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-14:59:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.4471118901171589-1)
+16-Nov-2018-14:59:41 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/232489/win
+16-Nov-2018-14:59:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+16-Nov-2018-14:59:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+16-Nov-2018-14:59:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+16-Nov-2018-15:00:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+16-Nov-2018-15:00:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+16-Nov-2018-15:00:02 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+16-Nov-2018-15:00:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify total payout, wager and bets for Running Giant6 Bet on the old site.jpeg
+16-Nov-2018-15:00:07 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+16-Nov-2018-15:00:38 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-15:00:41 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-15:00:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-15:00:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-15:00:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3189528353909128-1)
+16-Nov-2018-15:01:07 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/232507/win
+16-Nov-2018-15:01:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+16-Nov-2018-15:01:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+16-Nov-2018-15:01:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+16-Nov-2018-15:01:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify total payout, wager and bets for Running Giant6 Bet on the old site.jpeg
+16-Nov-2018-15:01:25 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+16-Nov-2018-15:02:08 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+16-Nov-2018-15:02:11 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+16-Nov-2018-15:02:18 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+16-Nov-2018-15:02:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+16-Nov-2018-15:02:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.24126340528371237-1)
+16-Nov-2018-15:02:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/232517/win
+16-Nov-2018-15:02:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+16-Nov-2018-15:02:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+16-Nov-2018-15:02:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+16-Nov-2018-15:04:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify total payout, wager and bets for Running Giant6 Bet on the old site.jpeg
+16-Nov-2018-15:04:35 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

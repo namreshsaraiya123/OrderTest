@@ -1,0 +1,748 @@
+21-May-2018-11:31:16 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-11:31:19 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-11:31:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:31:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:31:54 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160701/Win
+21-May-2018-11:31:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:31:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:31:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:33:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Daily Double bet and place the bet.jpeg
+21-May-2018-11:33:08 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-11:33:29 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-11:33:32 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-11:33:40 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:33:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:34:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160711/Win
+21-May-2018-11:34:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:34:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:34:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:36:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Daily Double bet and place the bet.jpeg
+21-May-2018-11:36:43 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-11:41:21 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-11:41:24 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-11:41:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:41:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:41:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160729/Win
+21-May-2018-11:41:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:41:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:41:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:41:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:41:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.35642118558273506-11)
+21-May-2018-11:41:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:41:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:42:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160739/Win
+21-May-2018-11:42:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:42:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:42:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:42:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:42:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.9792792514947806-13)
+21-May-2018-11:42:34 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:42:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:42:56 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160747/Win
+21-May-2018-11:42:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:42:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:42:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:42:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the First Four bet and place the bet.jpeg
+21-May-2018-11:42:59 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:42:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:43:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160757/Win
+21-May-2018-11:43:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:43:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:43:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:43:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Trifecta bet and place the bet.jpeg
+21-May-2018-11:43:21 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:43:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:43:41 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160767/Win
+21-May-2018-11:43:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:43:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:43:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:43:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Quinella bet and place the bet.jpeg
+21-May-2018-11:43:44 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:43:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:44:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160779/Win
+21-May-2018-11:44:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:44:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:44:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:44:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:44:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8708451231652439-11)
+21-May-2018-11:44:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:44:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:44:39 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160789/Win
+21-May-2018-11:44:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:44:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:44:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:44:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:44:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5805073013232913-11)
+21-May-2018-11:44:51 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:44:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:45:13 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160799/Win
+21-May-2018-11:45:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:45:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:45:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:45:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:45:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.03071321488788703-12)
+21-May-2018-11:45:26 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:45:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:45:50 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160809/Win
+21-May-2018-11:45:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:45:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:45:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:46:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:46:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2416802097573214-15)
+21-May-2018-11:46:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:46:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:46:29 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160817/Win
+21-May-2018-11:46:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:46:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:46:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:46:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Exacta bet and place the bet.jpeg
+21-May-2018-11:46:31 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-11:52:33 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-11:52:36 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-11:52:37 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:52:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:57:34 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-11:57:37 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-11:57:39 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:57:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:58:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160831/Win
+21-May-2018-11:58:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:58:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:58:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:58:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:58:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6889089469756913-11)
+21-May-2018-11:58:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:58:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:58:37 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160841/Win
+21-May-2018-11:58:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:58:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:58:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:58:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-11:58:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7995159250098307-13)
+21-May-2018-11:58:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:58:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:59:15 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160849/Win
+21-May-2018-11:59:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:59:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:59:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:59:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the First Four bet and place the bet.jpeg
+21-May-2018-11:59:17 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:59:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-11:59:41 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160859/Win
+21-May-2018-11:59:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-11:59:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-11:59:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-11:59:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Trifecta bet and place the bet.jpeg
+21-May-2018-11:59:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-11:59:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-12:00:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160869/Win
+21-May-2018-12:00:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-12:00:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-12:00:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-12:00:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Quinella bet and place the bet.jpeg
+21-May-2018-12:00:08 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-12:00:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-12:00:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160881/Win
+21-May-2018-12:00:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-12:00:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-12:00:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-12:00:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Running Double bet and place the bet.jpeg
+21-May-2018-12:00:41 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-12:00:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-12:01:06 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160891/Win
+21-May-2018-12:01:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-12:01:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-12:01:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-12:01:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-12:01:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.17158012465955563-11)
+21-May-2018-12:01:18 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-12:01:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-12:01:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160901/Win
+21-May-2018-12:01:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-12:01:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-12:01:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-12:01:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-12:01:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8524877519339411-12)
+21-May-2018-12:01:57 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-12:01:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-12:02:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160911/Win
+21-May-2018-12:02:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-12:02:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-12:02:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-12:02:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-12:02:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6135516932163194-15)
+21-May-2018-12:02:37 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-12:02:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-12:02:57 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160919/Win
+21-May-2018-12:02:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-12:02:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-12:02:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-12:02:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Exacta bet and place the bet.jpeg
+21-May-2018-12:03:00 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-12:22:39 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-12:22:42 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-12:22:48 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-12:22:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-12:23:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160941/Win
+21-May-2018-12:23:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-12:23:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-12:23:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-13:51:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Exacta bet and place the bet.jpeg
+21-May-2018-13:51:52 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:02:14 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:02:17 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:02:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:02:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:03:03 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160995/Win
+21-May-2018-14:03:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:03:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:03:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:03:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the Quinella bet and place the bet.jpeg
+21-May-2018-14:03:58 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:05:40 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:05:44 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:05:45 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:05:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:06:15 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161017/Win
+21-May-2018-14:06:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:06:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:06:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:06:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:06:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.03065737069643082-11)
+21-May-2018-14:06:59 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:11:56 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:11:59 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:12:01 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:12:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:12:26 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161027/Win
+21-May-2018-14:12:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:12:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:12:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:13:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:13:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.36999490034136473-11)
+21-May-2018-14:13:36 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:14:24 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:14:28 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:14:35 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:14:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:15:00 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161037/Win
+21-May-2018-14:15:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:15:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:15:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:15:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:15:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6045919127035697-11)
+21-May-2018-14:16:03 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:18:20 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:18:23 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:18:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:18:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:19:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161047/Win
+21-May-2018-14:19:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:19:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:19:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:19:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:19:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.07071269062541541-12)
+21-May-2018-14:20:02 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:20:26 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:20:29 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:20:41 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:20:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:21:07 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161057/Win
+21-May-2018-14:21:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:21:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:21:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:22:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the First Four bet and place the bet.jpeg
+21-May-2018-14:22:02 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:25:11 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:25:14 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:25:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:25:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:25:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161067/Win
+21-May-2018-14:25:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:25:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:25:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:26:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:26:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.18103493845551344-13)
+21-May-2018-14:27:06 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:31:10 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:31:14 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:31:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:31:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:31:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161079/Win
+21-May-2018-14:31:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:31:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:31:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:32:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:32:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.9439724564870955-11)
+21-May-2018-14:32:52 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:33:21 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:33:24 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:33:30 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:33:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:34:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161089/Win
+21-May-2018-14:34:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:34:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:34:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:34:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:34:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.553066843562154-11)
+21-May-2018-14:34:55 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:35:47 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:35:50 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:35:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:35:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:36:12 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161099/Win
+21-May-2018-14:36:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:36:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:36:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:36:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:36:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.4970733134344578-11)
+21-May-2018-14:36:25 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:37:22 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:37:25 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:37:34 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:37:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:38:01 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161109/Win
+21-May-2018-14:38:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:38:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:38:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:39:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:39:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.1900667228573827-12)
+21-May-2018-14:39:47 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-14:41:53 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-14:41:56 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-14:41:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:41:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:42:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161119/Win
+21-May-2018-14:42:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:42:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:42:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:42:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:42:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.41112844081737987-11)
+21-May-2018-14:42:30 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:42:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:42:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161129/Win
+21-May-2018-14:42:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:42:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:42:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:43:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:43:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5241287347969894-13)
+21-May-2018-14:43:08 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:43:08 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:43:30 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161137/Win
+21-May-2018-14:43:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:43:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:43:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:43:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:43:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.801986579404145-13)
+21-May-2018-14:43:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:43:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:44:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161147/Win
+21-May-2018-14:44:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:44:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:44:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:44:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:44:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.012078662933892703-12)
+21-May-2018-14:44:17 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:44:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:44:37 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161157/Win
+21-May-2018-14:44:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:44:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:44:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:44:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:44:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5627471047706092-11)
+21-May-2018-14:44:48 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:44:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:45:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161169/Win
+21-May-2018-14:45:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:45:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:45:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:45:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:45:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5926502070166262-11)
+21-May-2018-14:45:21 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:45:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:45:42 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161179/Win
+21-May-2018-14:45:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:45:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:45:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:45:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:45:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7835976204039083-11)
+21-May-2018-14:45:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:45:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:46:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161189/Win
+21-May-2018-14:46:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:46:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:46:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:46:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:46:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.18958935062191684-12)
+21-May-2018-14:46:29 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:46:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:46:55 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161199/Win
+21-May-2018-14:46:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:46:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:46:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:47:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:47:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.9086258199408952-15)
+21-May-2018-14:47:14 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-14:47:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-14:47:35 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161207/Win
+21-May-2018-14:47:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-14:47:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-14:47:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-14:47:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-14:47:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7294733484816187-11)
+21-May-2018-14:47:46 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-15:03:35 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-15:03:38 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-15:03:49 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:03:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:04:15 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161258/Win
+21-May-2018-15:04:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:04:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:04:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:07:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Fixed Win bet.jpeg
+21-May-2018-15:07:48 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-15:15:16 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-15:15:19 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-15:15:21 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:15:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:15:43 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161268/Win
+21-May-2018-15:15:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:15:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:15:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:15:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:15:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3014768383671864-6)
+21-May-2018-15:15:49 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-15:16:05 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-15:16:08 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-15:16:13 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:16:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:16:21 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/158520/Win
+21-May-2018-15:18:11 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-15:28:54 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-15:28:58 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-15:29:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:29:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:29:18 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/158822/Win
+21-May-2018-15:29:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:29:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6843149795827841-4)
+21-May-2018-15:29:29 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-15:30:01 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-15:30:04 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-15:30:06 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:30:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:30:30 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161280/Win
+21-May-2018-15:30:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:30:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:30:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:30:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:30:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6224720381498381-6)
+21-May-2018-15:30:36 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:30:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:30:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161292/Win
+21-May-2018-15:30:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:30:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:30:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:31:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:31:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7377152982492483-8)
+21-May-2018-15:31:06 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:31:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:31:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161300/Win
+21-May-2018-15:31:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:31:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:31:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:31:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:31:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8577213347497916-6)
+21-May-2018-15:31:39 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:31:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:32:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161310/Win
+21-May-2018-15:32:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:32:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:32:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:32:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:32:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.44920965065641805-5)
+21-May-2018-15:32:10 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:32:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:32:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161323/Win
+21-May-2018-15:32:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:32:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:32:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:32:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:32:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3245398431494553-10)
+21-May-2018-15:32:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:32:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:33:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161331/Win
+21-May-2018-15:33:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:33:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:33:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:33:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:33:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.478429327654752-10)
+21-May-2018-15:33:18 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:33:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:33:20 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/158822/Win
+21-May-2018-15:33:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:33:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.06332097609543919-4)
+21-May-2018-15:33:22 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:33:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:33:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161343/Win
+21-May-2018-15:33:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:33:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:33:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:33:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:33:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3849256938986867-9)
+21-May-2018-15:33:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:33:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:34:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161353/Win
+21-May-2018-15:34:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:34:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:34:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:34:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:34:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2778010552330794-8)
+21-May-2018-15:34:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:34:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:34:54 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161361/Win
+21-May-2018-15:34:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:34:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:34:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:34:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:34:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6268101160005259-7)
+21-May-2018-15:35:02 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:35:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:35:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161373/Win
+21-May-2018-15:35:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:35:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:35:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:35:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:35:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.9962357013839991-12)
+21-May-2018-15:35:42 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:35:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:36:03 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161381/Win
+21-May-2018-15:36:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:36:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:36:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:36:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:36:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8767235376075426-6)
+21-May-2018-15:36:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:36:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:36:31 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161391/Win
+21-May-2018-15:36:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:36:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:36:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:36:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:36:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.1334437933150494-8)
+21-May-2018-15:36:44 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:36:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place a place bet of a feature race.jpeg
+21-May-2018-15:36:51 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:36:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:37:13 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161402/Win
+21-May-2018-15:37:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:37:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:37:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:37:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:37:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.47875221674991986-9)
+21-May-2018-15:37:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:37:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:37:44 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161412/Win
+21-May-2018-15:37:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:37:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:37:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:37:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:37:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7256769391022695-8)
+21-May-2018-15:37:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:37:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place a win bet of a feature race.jpeg
+21-May-2018-15:37:59 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:37:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:38:19 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161423/Win
+21-May-2018-15:38:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:38:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:38:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:38:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:38:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6082356379619158-6)
+21-May-2018-15:38:26 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:38:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:38:47 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161433/Win
+21-May-2018-15:38:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:38:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:38:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:38:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place a streak bet.jpeg
+21-May-2018-15:38:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:38:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:39:12 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161446/Win
+21-May-2018-15:39:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:39:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:39:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:39:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-15:39:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6504690038222214-8)
+21-May-2018-15:39:20 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-15:44:19 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-15:44:22 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-15:44:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:44:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:44:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161456/Win
+21-May-2018-15:44:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:44:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:44:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:44:55 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:44:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:45:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161466/Win
+21-May-2018-15:45:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:45:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:45:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:45:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:45:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:45:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/158823/Win
+21-May-2018-15:45:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:45:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:45:47 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161477/Win
+21-May-2018-15:45:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:45:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:45:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:46:01 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:46:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:46:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161487/Win
+21-May-2018-15:46:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:46:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:46:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:46:35 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:46:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:46:56 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161497/Win
+21-May-2018-15:46:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:46:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:46:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:47:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:47:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:47:26 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161505/Win
+21-May-2018-15:47:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:47:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:47:26 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:47:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:47:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:47:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161515/Win
+21-May-2018-15:47:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:47:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:47:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:48:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:48:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:48:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161526/Win
+21-May-2018-15:48:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:48:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:48:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:48:31 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:48:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:48:51 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161536/Win
+21-May-2018-15:48:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:48:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:48:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:48:57 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:48:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:49:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161546/Win
+21-May-2018-15:49:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:49:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:49:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:49:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:49:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:49:47 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161556/Win
+21-May-2018-15:49:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:49:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:49:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:49:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:49:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:50:14 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161566/Win
+21-May-2018-15:50:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:50:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:50:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:50:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:50:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:50:45 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161578/Win
+21-May-2018-15:50:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:50:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:50:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:50:54 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-15:50:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-15:51:15 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161586/Win
+21-May-2018-15:51:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-15:51:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-15:51:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-15:51:24 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-May-2018-16:26:25 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-May-2018-16:26:28 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-May-2018-16:26:30 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:26:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:26:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161637/Win
+21-May-2018-16:26:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:26:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:26:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:26:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:26:57 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7537007990637168-7)
+21-May-2018-16:27:01 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:27:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:27:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161647/Win
+21-May-2018-16:27:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:27:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:27:23 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:27:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:27:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2116807968269323-9)
+21-May-2018-16:27:35 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:27:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:27:59 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161657/Win
+21-May-2018-16:27:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:27:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:27:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:28:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:28:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.4406993996655486-7)
+21-May-2018-16:28:10 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:28:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:28:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161665/Win
+21-May-2018-16:28:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:28:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:28:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:28:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:28:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7629188911066196-7)
+21-May-2018-16:28:40 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:28:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:29:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161677/Win
+21-May-2018-16:29:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:29:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:29:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:29:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:29:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6454500588206655-7)
+21-May-2018-16:29:14 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:29:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:29:38 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161687/Win
+21-May-2018-16:29:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:29:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:29:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:29:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:29:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.022112305978048363-11)
+21-May-2018-16:29:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:29:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:30:15 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161695/Win
+21-May-2018-16:30:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:30:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:30:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:30:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:30:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7426104932747246-8)
+21-May-2018-16:30:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:30:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:30:46 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161707/Win
+21-May-2018-16:30:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:30:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:30:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:30:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:30:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.4540218867895349-8)
+21-May-2018-16:30:56 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:30:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:31:17 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161715/Win
+21-May-2018-16:31:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:31:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:31:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:31:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:31:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.9335805715021357-7)
+21-May-2018-16:31:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+21-May-2018-16:31:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+21-May-2018-16:31:45 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/161725/Win
+21-May-2018-16:31:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+21-May-2018-16:31:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+21-May-2018-16:31:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+21-May-2018-16:31:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+21-May-2018-16:31:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.24499840700020425-9)
+21-May-2018-16:31:55 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

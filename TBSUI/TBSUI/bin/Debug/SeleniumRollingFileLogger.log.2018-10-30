@@ -1,0 +1,191 @@
+30-Oct-2018-11:24:43 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:24:47 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:25:29 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:25:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:25:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.15387323035778167-15)
+30-Oct-2018-11:29:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Payment processed successfully']
+30-Oct-2018-11:29:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Deposit Via New Credit Card.jpeg
+30-Oct-2018-11:29:24 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-11:31:03 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:31:06 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:31:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:31:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:32:16 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-11:34:02 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:34:06 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:34:08 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:34:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:34:54 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[text()= 'Your account has been successfully funded']
+30-Oct-2018-11:34:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5377955357152615-8)
+30-Oct-2018-11:34:59 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-11:37:34 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:37:37 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:38:07 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:38:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:38:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5955094191606498-15)
+30-Oct-2018-11:47:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Deposit Via New Credit Card.jpeg
+30-Oct-2018-11:47:07 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-11:49:15 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:49:19 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:49:29 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:49:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:50:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Payment processed successfully']
+30-Oct-2018-11:50:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8784643488653885-18)
+30-Oct-2018-11:51:03 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-11:51:52 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:51:56 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:52:12 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:52:14 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:52:56 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-11:55:48 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:55:51 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:56:08 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:56:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:56:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text()= 'Save Changes']
+30-Oct-2018-11:56:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2312236608029179-10)
+30-Oct-2018-11:57:06 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-11:58:25 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-11:58:28 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-11:58:44 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-11:58:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-11:59:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name = 'amount']
+30-Oct-2018-11:59:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.48122305471655724-8)
+30-Oct-2018-11:59:28 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-12:09:23 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-12:09:27 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-12:09:45 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-12:09:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-12:09:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.23744227710888555-15)
+30-Oct-2018-12:12:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Payment processed successfully']
+30-Oct-2018-12:12:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Deposit Via New Credit Card.jpeg
+30-Oct-2018-12:12:22 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:33:16 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:33:19 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:33:22 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:34:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:34:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: html/body/div[6]/div/a[1]
+30-Oct-2018-13:35:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Your account has successfully updated']
+30-Oct-2018-13:35:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7442397485890939-5)
+30-Oct-2018-13:35:36 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:37:46 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:37:50 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:38:26 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:38:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:39:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:39:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:39:36 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:40:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Your account has successfully updated']
+30-Oct-2018-13:40:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5942460600902808-9)
+30-Oct-2018-13:40:08 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:40:41 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:40:44 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:40:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:40:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:41:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:41:19 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:41:19 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:41:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Your account has successfully updated']
+30-Oct-2018-13:41:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6443177530404578-9)
+30-Oct-2018-13:41:50 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:42:34 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:42:37 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:42:54 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:42:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:43:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:43:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:43:18 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:43:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Your account has successfully updated']
+30-Oct-2018-13:43:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.08706822045272578-9)
+30-Oct-2018-13:43:45 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:44:43 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:44:46 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:44:58 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:45:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:45:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:45:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:45:20 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:45:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Your account has successfully updated']
+30-Oct-2018-13:45:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8867902297071983-9)
+30-Oct-2018-13:45:41 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:46:39 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:46:42 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:46:52 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:46:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:47:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:47:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:47:10 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:47:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Your account has successfully updated']
+30-Oct-2018-13:47:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5704782537505089-10)
+30-Oct-2018-13:47:28 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:48:20 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:48:23 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:48:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:48:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:48:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:48:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:48:47 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:49:11 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text()= 'Your password was successfully changed']
+30-Oct-2018-13:49:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.21052074309940094-11)
+30-Oct-2018-13:49:19 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:52:51 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:52:55 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:53:06 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:53:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:53:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:53:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:53:24 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:54:27 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:55:46 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:55:50 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:56:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:56:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:56:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:56:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:56:43 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:57:21 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-13:58:49 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-13:58:52 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-13:59:11 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-13:59:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-13:59:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:59:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:59:40 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-13:59:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //p[text() = 'Not a valid phone number']
+30-Oct-2018-13:59:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8886888634489456-9)
+30-Oct-2018-14:00:01 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-14:01:12 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-14:01:15 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-14:01:31 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-14:01:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+30-Oct-2018-14:01:49 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-14:01:49 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-14:01:49 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: /html/body/div[5]/div/a[1]
+30-Oct-2018-14:02:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //html/body/div[2]/div/section/div/div/ui-view/section/ui-view/div/div/div[2]/form/div/div[3]/p
+30-Oct-2018-14:02:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.39989975040349024-11)
+30-Oct-2018-14:02:22 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-14:11:45 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-14:11:48 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-14:12:00 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-14:13:47 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/226608/Win
+30-Oct-2018-14:13:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+30-Oct-2018-14:13:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+30-Oct-2018-14:14:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify correct race number for Running double market.jpeg
+30-Oct-2018-14:14:27 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-14:29:28 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-14:29:31 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-14:29:42 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-14:30:24 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/226618/win
+30-Oct-2018-14:30:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+30-Oct-2018-14:30:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+30-Oct-2018-14:30:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+30-Oct-2018-14:31:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify correct race number for Running double market.jpeg
+30-Oct-2018-14:31:18 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-Oct-2018-14:46:58 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-Oct-2018-14:47:02 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-Oct-2018-14:47:12 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+30-Oct-2018-14:48:10 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/226628/win
+30-Oct-2018-14:48:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+30-Oct-2018-14:48:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+30-Oct-2018-14:48:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+30-Oct-2018-14:48:42 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify correct race number for Running double market.jpeg
+30-Oct-2018-14:48:44 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

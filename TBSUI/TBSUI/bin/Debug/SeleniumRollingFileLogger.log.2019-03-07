@@ -1,0 +1,188 @@
+07-Mar-2019-14:00:55 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeHeadlessOption] -  Using Chrome Options 
+07-Mar-2019-14:00:58 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] - Using Chrome Headless Driver
+07-Mar-2019-14:01:01 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:01:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:01:04 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:01:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:01:09 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:01:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:01:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.2832963043315233-1)
+07-Mar-2019-14:01:37 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/275450/win
+07-Mar-2019-14:01:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:01:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:01:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:01:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:01:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:01:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:01:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:01:38 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:01:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:01:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:01:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:01:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:01:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/ui-view/div/div[2]/ul/li[2]/div/outcome/div/div[3]/a
+07-Mar-2019-14:01:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3497698383851431-8)
+07-Mar-2019-14:01:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:01:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:01:41 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:01:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:01:49 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:01:49 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:02:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the BlackBook Comment.jpeg
+07-Mar-2019-14:02:50 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver and Service  
+07-Mar-2019-14:04:19 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeHeadlessOption] -  Using Chrome Options 
+07-Mar-2019-14:04:22 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] - Using Chrome Headless Driver
+07-Mar-2019-14:04:25 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:04:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:04:28 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:04:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:04:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:04:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:04:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.18280974928925287-1)
+07-Mar-2019-14:04:59 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/275460/win
+07-Mar-2019-14:04:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:04:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:05:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:05:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:05:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/ui-view/div/div[2]/ul/li[2]/div/outcome/div/div[3]/a
+07-Mar-2019-14:05:01 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.5588839110495396-8)
+07-Mar-2019-14:05:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:05:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:05:03 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:05:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:05:11 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:05:11 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:07:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the BlackBook Comment.jpeg
+07-Mar-2019-14:07:12 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver and Service  
+07-Mar-2019-14:09:11 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+07-Mar-2019-14:09:15 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+07-Mar-2019-14:09:17 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:09:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:09:20 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:09:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:09:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Remove']
+07-Mar-2019-14:09:37 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:09:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:09:55 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8174740333930899-1)
+07-Mar-2019-14:10:15 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/275470/win
+07-Mar-2019-14:10:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:10:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:10:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:10:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:10:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:10:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:10:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:10:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:10:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:10:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:10:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:10:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:10:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/ui-view/div/div[2]/ul/li[2]/div/outcome/div/div[3]/a
+07-Mar-2019-14:10:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3561302391799612-8)
+07-Mar-2019-14:10:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:10:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:10:20 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:10:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:10:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:10:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:10:45 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:10:46 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() ='Remove']
+07-Mar-2019-14:10:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3561302391799612-19)
+07-Mar-2019-14:10:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() ='Edit']
+07-Mar-2019-14:10:48 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.3561302391799612-20)
+07-Mar-2019-14:10:59 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver and Service  
+07-Mar-2019-14:15:20 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+07-Mar-2019-14:15:23 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+07-Mar-2019-14:15:27 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:15:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:15:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:15:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:15:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:15:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:15:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:15:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:15:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:15:30 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:15:30 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:15:31 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:15:35 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:15:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:15:43 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.16372724289584206-1)
+07-Mar-2019-14:16:04 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/275480/win
+07-Mar-2019-14:16:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:16:04 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:16:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:16:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:16:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:16:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:16:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:16:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:16:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:16:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:16:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:16:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:16:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: /html/body/div[2]/div/section/div/div/ui-view/section/ui-view/div/div[2]/ul/li[3]/div/outcome/div/div[3]/a
+07-Mar-2019-14:16:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.8198802296928209-8)
+07-Mar-2019-14:16:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:16:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:16:09 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:16:10 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:16:15 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Edit the BlackBook Comment.jpeg
+07-Mar-2019-14:16:15 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver and Service  
+07-Mar-2019-14:41:40 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+07-Mar-2019-14:41:44 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+07-Mar-2019-14:41:49 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:41:49 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:41:52 [TBSUI.ComponentHelper.ButtonHelper] [INFO] [ClickButton] -  Button Click @ By.XPath: //a[@ng-click='closeTour()']
+07-Mar-2019-14:41:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //h6[text() = 'Horse 02']
+07-Mar-2019-14:41:57 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+07-Mar-2019-14:42:20 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+07-Mar-2019-14:42:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7903115847248583-1)
+07-Mar-2019-14:42:51 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/275490/win
+07-Mar-2019-14:42:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:42:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:42:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-14:42:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+07-Mar-2019-14:42:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+07-Mar-2019-14:42:52 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+07-Mar-2019-15:04:50 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver and Service  

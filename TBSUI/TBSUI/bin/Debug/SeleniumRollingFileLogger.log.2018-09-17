@@ -1,0 +1,35 @@
+17-Sep-2018-14:09:14 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Sep-2018-14:09:18 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Sep-2018-14:09:21 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://bluebet-web-staging.azurewebsites.net/
+17-Sep-2018-14:09:27 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+17-Sep-2018-14:09:35 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+17-Sep-2018-14:09:58 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Quinella bet on the old site.jpeg
+17-Sep-2018-14:09:58 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+17-Sep-2018-14:10:30 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Sep-2018-14:10:34 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Sep-2018-14:10:45 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://bluebet-web-staging.azurewebsites.net/
+17-Sep-2018-14:10:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+17-Sep-2018-14:11:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+17-Sep-2018-14:12:53 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://bluebet-web-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/216388/Win
+17-Sep-2018-14:12:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+17-Sep-2018-14:12:53 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+17-Sep-2018-14:13:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Quinella bet on the old site.jpeg
+17-Sep-2018-14:13:32 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+17-Sep-2018-14:14:55 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Sep-2018-14:14:58 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Sep-2018-14:15:14 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://bluebet-web-staging.azurewebsites.net/
+17-Sep-2018-14:15:22 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+17-Sep-2018-14:16:01 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://bluebet-web-staging.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/216408/Win
+17-Sep-2018-14:26:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+17-Sep-2018-14:26:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+17-Sep-2018-14:26:50 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Quinella bet on the old site.jpeg
+17-Sep-2018-14:26:53 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+17-Sep-2018-14:27:10 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Sep-2018-14:27:14 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Sep-2018-14:27:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://bluebet-web-staging.azurewebsites.net/
+17-Sep-2018-14:27:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+17-Sep-2018-14:44:00 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://bluebet-web-staging.azurewebsites.net/Australian-Racing/Muswellbrook/Race-1/216418/Win
+17-Sep-2018-14:44:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+17-Sep-2018-14:44:00 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+17-Sep-2018-14:44:36 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Place Quinella bet on the old site.jpeg
+17-Sep-2018-14:44:37 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

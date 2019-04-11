@@ -1,0 +1,8 @@
+26-Oct-2018-11:30:08 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+26-Oct-2018-11:30:12 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+26-Oct-2018-11:30:16 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+26-Oct-2018-11:30:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.LinkText: Deposit
+26-Oct-2018-11:31:16 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6284227055368663-15)
+26-Oct-2018-11:32:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //input[@name= 'accountName']
+26-Oct-2018-11:32:40 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.6284227055368663-26)
+26-Oct-2018-11:32:45 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

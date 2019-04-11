@@ -1,0 +1,18 @@
+17-Aug-2018-14:18:25 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Aug-2018-14:18:29 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Aug-2018-14:18:47 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+17-Aug-2018-14:19:26 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+17-Aug-2018-14:46:23 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Aug-2018-14:46:26 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Aug-2018-14:47:00 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+17-Aug-2018-14:48:13 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Change the order of the sports.jpeg
+17-Aug-2018-14:48:13 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+17-Aug-2018-16:16:59 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Aug-2018-16:17:02 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Aug-2018-16:17:14 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+17-Aug-2018-16:18:44 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+17-Aug-2018-16:28:35 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+17-Aug-2018-16:28:38 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+17-Aug-2018-16:28:50 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+17-Aug-2018-16:34:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Change the order of the sports.jpeg
+17-Aug-2018-16:34:28 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

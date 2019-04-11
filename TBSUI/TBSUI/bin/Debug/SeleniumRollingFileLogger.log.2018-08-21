@@ -1,0 +1,8 @@
+21-Aug-2018-13:37:50 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-Aug-2018-13:37:54 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-Aug-2018-13:38:08 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+21-Aug-2018-13:38:34 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+21-Aug-2018-13:39:03 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+21-Aug-2018-13:39:06 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+21-Aug-2018-13:39:15 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+21-Aug-2018-13:39:40 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

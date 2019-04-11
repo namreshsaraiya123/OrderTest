@@ -1,0 +1,18 @@
+30-May-2018-14:02:34 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-May-2018-14:02:38 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-May-2018-14:02:45 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+30-May-2018-14:04:12 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Overseas-Trots/Northfield-Park/Race-12/170906/multiRaceExotic/330385/RC-DBL/NSW/2']
+30-May-2018-14:04:18 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Overseas-Trots/Northfield-Park/Race-12/170906/multiRaceExotic/329992/RC-DBL/VIC/2']
+30-May-2018-14:04:32 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-May-2018-14:08:50 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-May-2018-14:08:53 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-May-2018-14:09:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+30-May-2018-14:10:02 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Racing/Warwick-Farm/Race-7/167653/multiRaceExotic/329774/RC-GIANT6/NSW/6']
+30-May-2018-14:10:05 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Greyhound/The-Meadows/Race-9/167448/multiRaceExotic/329970/RC-GIANT6/VIC/6']
+30-May-2018-14:10:15 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+30-May-2018-14:14:42 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+30-May-2018-14:14:45 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+30-May-2018-14:15:21 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+30-May-2018-14:16:25 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Overseas-Trots/Northfield-Park/Race-12/170906/multiRaceExotic/330384/RC-QUADDIE/NSW/4']
+30-May-2018-14:16:29 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Overseas-Trots/Northfield-Park/Race-12/170906/multiRaceExotic/329991/RC-QUADDIE/VIC/4']
+30-May-2018-14:16:38 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

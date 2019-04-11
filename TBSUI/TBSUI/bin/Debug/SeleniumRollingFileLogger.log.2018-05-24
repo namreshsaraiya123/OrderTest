@@ -1,0 +1,13 @@
+24-May-2018-14:46:22 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+24-May-2018-14:46:25 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+24-May-2018-14:46:48 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+24-May-2018-14:47:09 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify total payout, wager and bets for place bet of a feature race.jpeg
+24-May-2018-14:47:10 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+24-May-2018-14:49:04 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+24-May-2018-14:49:07 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+24-May-2018-14:49:17 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+24-May-2018-14:49:57 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+24-May-2018-15:10:16 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+24-May-2018-15:10:19 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+24-May-2018-15:10:22 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+24-May-2018-15:10:42 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

@@ -1,0 +1,27 @@
+18-May-2018-11:42:36 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-May-2018-11:42:39 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-May-2018-11:42:50 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+18-May-2018-11:42:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Greyhound/Hobart/Race-1/155131/Win']/div/span/span/b
+18-May-2018-11:42:56 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElementVisible] -  Checking for the element visible Element (id = 0.7590740135099439-2)
+18-May-2018-11:42:59 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-May-2018-11:43:18 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-May-2018-11:43:21 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-May-2018-11:43:23 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+18-May-2018-11:43:28 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+18-May-2018-11:44:17 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-May-2018-11:47:18 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-May-2018-11:47:21 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-May-2018-11:47:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+18-May-2018-11:47:37 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+18-May-2018-11:47:59 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/racing/Australian-Racing/Muswellbrook/Race-1/160261/Win
+18-May-2018-11:47:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+18-May-2018-11:47:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+18-May-2018-11:47:59 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+18-May-2018-11:56:44 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //div[@id = 'mdc-js-snackbar']
+18-May-2018-11:56:55 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+18-May-2018-15:03:28 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+18-May-2018-15:03:31 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+18-May-2018-15:03:33 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+18-May-2018-15:03:33 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[text() = 'Clear']
+18-May-2018-15:04:07 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify popular markets are shown correctly in the menu.jpeg
+18-May-2018-15:04:07 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

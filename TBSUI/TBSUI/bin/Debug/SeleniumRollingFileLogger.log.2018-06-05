@@ -1,0 +1,20 @@
+05-Jun-2018-11:32:55 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+05-Jun-2018-11:32:58 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+05-Jun-2018-11:33:05 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+05-Jun-2018-11:33:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Jun-2018-11:33:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Jun-2018-11:33:17 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Jun-2018-11:33:34 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Trots/Menangle/Race-8/174985/multiRaceExotic/334178/RC-GIANT6/NSW/6']
+05-Jun-2018-11:48:03 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Trots/Menangle/Race-8/174985/multiRaceExotic/334178/RC-GIANT6/NSW/6']
+05-Jun-2018-11:48:06 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Racing/Warrnambool/Race-9/175800/multiRaceExotic/333930/RC-GIANT6/VIC/6']
+05-Jun-2018-11:48:21 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify correct race are highligted for the giant6 multi exotics.jpeg
+05-Jun-2018-11:48:22 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+05-Jun-2018-11:50:08 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+05-Jun-2018-11:50:11 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+05-Jun-2018-11:50:22 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://geniusbet-australia-staging.azurewebsites.net/
+05-Jun-2018-11:50:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait to 1 sec 
+05-Jun-2018-11:50:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [GetWebdriverWait] -  Wait Object Created 
+05-Jun-2018-11:50:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [WaitForWebElementInPage] -  Setting the Explicit wait Configured value 
+05-Jun-2018-11:50:39 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Racing/Goulburn/Race-7/175108/multiRaceExotic/333748/RC-GIANT6/NSW/6']
+05-Jun-2018-11:50:41 [TBSUI.ComponentHelper.GenericHelper] [INFO] [IsElemetPresent] -  Checking for the element By.XPath: //a[@href= '/racing/Australian-Racing/Warrnambool/Race-9/175800/multiRaceExotic/333930/RC-GIANT6/VIC/6']
+05-Jun-2018-11:50:52 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

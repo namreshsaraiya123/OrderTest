@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="04c92b83-c033-4642-a942-dbff053971ce" name="namre@DESKTOP-D0695VE 2019-04-11 23:38:22" runUser="DESKTOP-D0695VE\namre" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="cb3b05f1-16b1-405b-a635-511c1ae48c63">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Orders\TBSUI\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="namre_DESKTOP-D0695VE 2019-04-11 23_38_22">
+      <DeploymentItem filename="SportsBookFrontEnd\MicrosoftWebDriver.exe" />
+      <DeploymentItem filename="SportsBookFrontEnd\chromedriver.exe" />
+      <DeploymentItem filename="SportsBookFrontEnd\phantomjs.exe" />
+      <DeploymentItem filename="SportsBookFrontEnd\geckodriver.exe" />
+      <DeploymentItem filename="SportsBookFrontEnd\IEDriverServer.exe" />
+    </Deployment>
+    <Execution>
+      <Timeouts testTimeout="0" />
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+        <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+          <Browser name="Internet Explorer 9.0" MaxConnections="6">
+            <Headers>
+              <Header name="User-Agent" value="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)" />
+              <Header name="Accept" value="*/*" />
+              <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+              <Header name="Accept-Encoding" value="GZIP" />
+            </Headers>
+          </Browser>
+        </WebTestRunConfiguration>
+      </TestTypeSpecific>
+      <AgentRule name="LocalMachineDefaultRole">
+      </AgentRule>
+    </Execution>
+    <Properties />
+  </TestSettings>
+  <Times creation="2019-04-11T23:38:22.0466157+10:00" queuing="2019-04-11T23:38:28.3874776+10:00" start="2019-04-11T23:38:28.5054431+10:00" finish="2019-04-11T23:38:54.9220113+10:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>-&gt; Using app.config
+BeforeTestRun Hook
+</StdOut>
+    </Output>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DeleteTheOrderCreated_MyMoney" storage="c:\orders\tbsui\tbsui\bin\debug\tbsui.dll" id="18d56981-a5b6-e9e0-967d-5c8f73c27812">
+      <Description>Delete the order created: MyMoney</Description>
+      <TestCategory>
+        <TestCategoryItem TestCategory="testcomplete" />
+      </TestCategory>
+      <Execution id="de8086d9-74a8-4ece-bf24-6cd53a9829cf" />
+      <Properties>
+        <Property>
+          <Key>Parameter:cardtype</Key>
+          <Value>Visa</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:expdate</Key>
+          <Value>09/22</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>MyMoney</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:street</Key>
+          <Value>Tulip Crescent</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:Zip</Key>
+          <Value>3155</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:State</Key>
+          <Value>Vic</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:CardNo</Key>
+          <Value>4532411343848790</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:product</Key>
+          <Value>MyMoney</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:customername</Key>
+          <Value>Namresh</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:quantity</Key>
+          <Value>2</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:city</Key>
+          <Value>Melbourne</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PlaceOrder</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Orders/TBSUI/TBSUI/bin/Debug/TBSUI.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TBSUI.FeatureFiles.PlaceOrderFeature, TBSUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeleteTheOrderCreated_MyMoney" />
+    </UnitTest>
+    <UnitTest name="UpdateTheQuantityOfTheOrder_MyMoney" storage="c:\orders\tbsui\tbsui\bin\debug\tbsui.dll" id="d26bdd6c-72fc-ca90-35d5-492a0f1050a0">
+      <Description>Update the quantity of the order: MyMoney</Description>
+      <TestCategory>
+        <TestCategoryItem TestCategory="testcomplete" />
+      </TestCategory>
+      <Execution id="b8cee2c8-4c53-4b5e-9fc1-b71d5b23da99" />
+      <Properties>
+        <Property>
+          <Key>Parameter:cardtype</Key>
+          <Value>Visa</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:expdate</Key>
+          <Value>09/22</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>MyMoney</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:street</Key>
+          <Value>Tulip Crescent</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:Zip</Key>
+          <Value>3155</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:State</Key>
+          <Value>Vic</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:CardNo</Key>
+          <Value>4532411343848790</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:product</Key>
+          <Value>MyMoney</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:customername</Key>
+          <Value>Namresh</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:quantity</Key>
+          <Value>2</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:city</Key>
+          <Value>Melbourne</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PlaceOrder</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Orders/TBSUI/TBSUI/bin/Debug/TBSUI.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TBSUI.FeatureFiles.PlaceOrderFeature, TBSUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateTheQuantityOfTheOrder_MyMoney" />
+    </UnitTest>
+    <UnitTest name="SuccessfulLogout_Tester" storage="c:\orders\tbsui\tbsui\bin\debug\tbsui.dll" id="c0c0d9f2-5cdf-4251-6939-05613ca060e2">
+      <Description>: Successful Logout: Tester</Description>
+      <TestCategory>
+        <TestCategoryItem TestCategory="testcomplete" />
+      </TestCategory>
+      <Execution id="116b0cb5-a36f-4df5-ba23-05750377911b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>TestCompleteLogin</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Tester</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:password</Key>
+          <Value>test</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:username</Key>
+          <Value>Tester</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Orders/TBSUI/TBSUI/bin/Debug/TBSUI.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TBSUI.FeatureFiles.TestCompleteLoginFeature, TBSUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SuccessfulLogout_Tester" />
+    </UnitTest>
+    <UnitTest name="PlaceAnOrder_MyMoney" storage="c:\orders\tbsui\tbsui\bin\debug\tbsui.dll" id="9846cced-1128-2582-8908-0b4ffc58e7c5">
+      <Description>Place an order: MyMoney</Description>
+      <TestCategory>
+        <TestCategoryItem TestCategory="testcomplete" />
+      </TestCategory>
+      <Execution id="2f6d039a-1e5c-4c3d-9dfc-578875cf2a2b" />
+      <Properties>
+        <Property>
+          <Key>Parameter:cardtype</Key>
+          <Value>Visa</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:expdate</Key>
+          <Value>09/22</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>MyMoney</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:street</Key>
+          <Value>Tulip Crescent</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:Zip</Key>
+          <Value>3155</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:State</Key>
+          <Value>Vic</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:CardNo</Key>
+          <Value>4532411343848790</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:product</Key>
+          <Value>MyMoney</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:customername</Key>
+          <Value>Namresh</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:quantity</Key>
+          <Value>2</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:city</Key>
+          <Value>Melbourne</Value>
+        </Property>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>PlaceOrder</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Orders/TBSUI/TBSUI/bin/Debug/TBSUI.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TBSUI.FeatureFiles.PlaceOrderFeature, TBSUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlaceAnOrder_MyMoney" />
+    </UnitTest>
+    <UnitTest name="SuccessfulLogin_Tester" storage="c:\orders\tbsui\tbsui\bin\debug\tbsui.dll" id="49d40621-d345-379d-60ad-ae53ba83f07f">
+      <Description>: Successful Login: Tester</Description>
+      <TestCategory>
+        <TestCategoryItem TestCategory="testcomplete" />
+      </TestCategory>
+      <Execution id="c142cfd0-f2db-4760-9c65-1c59e1864d7b" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>TestCompleteLogin</Value>
+        </Property>
+        <Property>
+          <Key>VariantName</Key>
+          <Value>Tester</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:password</Key>
+          <Value>test</Value>
+        </Property>
+        <Property>
+          <Key>Parameter:username</Key>
+          <Value>Tester</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/Orders/TBSUI/TBSUI/bin/Debug/TBSUI.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TBSUI.FeatureFiles.TestCompleteLoginFeature, TBSUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SuccessfulLogin_Tester" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="18d56981-a5b6-e9e0-967d-5c8f73c27812" executionId="de8086d9-74a8-4ece-bf24-6cd53a9829cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9846cced-1128-2582-8908-0b4ffc58e7c5" executionId="2f6d039a-1e5c-4c3d-9dfc-578875cf2a2b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d26bdd6c-72fc-ca90-35d5-492a0f1050a0" executionId="b8cee2c8-4c53-4b5e-9fc1-b71d5b23da99" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="49d40621-d345-379d-60ad-ae53ba83f07f" executionId="c142cfd0-f2db-4760-9c65-1c59e1864d7b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c0c0d9f2-5cdf-4251-6939-05613ca060e2" executionId="116b0cb5-a36f-4df5-ba23-05750377911b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="de8086d9-74a8-4ece-bf24-6cd53a9829cf" testId="18d56981-a5b6-e9e0-967d-5c8f73c27812" testName="DeleteTheOrderCreated_MyMoney" computerName="DESKTOP-D0695VE" duration="00:00:07.2836244" startTime="2019-04-11T23:38:28.5384918+10:00" endTime="2019-04-11T23:38:39.9076955+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de8086d9-74a8-4ece-bf24-6cd53a9829cf">
+      <Output>
+        <StdOut>Given user have visited the testcomplete home page
+-&gt; done: TestCompleteLogin.GivenUserHaveVisitedTheTestcompleteHomePage() (1.9s)
+And user is not logged in
+-&gt; done: TestCompleteLogin.GivenUserIsNotLoggedIn() (0.0s)
+And user logs in
+-&gt; done: TestCompleteLogin.GivenUserLogsIn() (1.6s)
+Given user clicks on Order button
+-&gt; done: PlaceOrder.GivenUserClicksOnOrderButton() (0.7s)
+When user provides the mandatory fields for the order
+  --- table step argument ---
+  | Product | Quantity | CustomerName | Street         | City      | State | Zip  | CardType | CardNo           | ExpDate |
+  | MyMoney | 2        | Namresh      | Tulip Crescent | Melbourne | Vic   | 3155 | Visa     | 4532411343848790 | 09/22   |
+-&gt; done: PlaceOrder.WhenUserProvidesTheMandatoryFieldsForTheOrder(&lt;table&gt;) (0.8s)
+And user clicks on the process button
+-&gt; done: PlaceOrder.WhenUserClicksOnTheProcessButton() (0.3s)
+Then verify the order is placed
+-&gt; done: PlaceOrder.ThenVerifyTheOrderIsPlaced() (0.0s)
+And user clicks on view all orders
+-&gt; done: PlaceOrder.ThenUserClicksOnViewAllOrders() (0.4s)
+And clicks on the checkbox  for the newly created order
+-&gt; done: PlaceOrder.ThenClicksOnTheCheckboxForTheNewlyCreatedOrder() (0.1s)
+And clicks on the delete button
+-&gt; done: PlaceOrder.ThenClicksOnTheDeleteButton() (0.4s)
+Then verify the order is deleted
+-&gt; done: PlaceOrder.ThenVerifyTheOrderIsDeleted() (0.0s)
+When user clicks on the logout button
+-&gt; done: TestCompleteLogin.WhenUserClicksOnTheLogoutButton() (1.0s)
+Then verify the user is successfully logged out
+-&gt; done: TestCompleteLogin.ThenVerifyTheUserIsSuccessfullyLoggedOut() (0.0s)
+AfterScenario Hook</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2f6d039a-1e5c-4c3d-9dfc-578875cf2a2b" testId="9846cced-1128-2582-8908-0b4ffc58e7c5" testName="PlaceAnOrder_MyMoney" computerName="DESKTOP-D0695VE" duration="00:00:04.0830718" startTime="2019-04-11T23:38:39.9166614+10:00" endTime="2019-04-11T23:38:44.0015941+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f6d039a-1e5c-4c3d-9dfc-578875cf2a2b">
+      <Output>
+        <StdOut>Given user have visited the testcomplete home page
+-&gt; done: TestCompleteLogin.GivenUserHaveVisitedTheTestcompleteHomePage() (0.5s)
+And user is not logged in
+-&gt; done: TestCompleteLogin.GivenUserIsNotLoggedIn() (0.0s)
+And user logs in
+-&gt; done: TestCompleteLogin.GivenUserLogsIn() (1.0s)
+Given user clicks on Order button
+-&gt; done: PlaceOrder.GivenUserClicksOnOrderButton() (0.4s)
+When user provides the mandatory fields for the order
+  --- table step argument ---
+  | Product | Quantity | CustomerName | Street         | City      | State | Zip  | CardType | CardNo           | ExpDate |
+  | MyMoney | 2        | Namresh      | Tulip Crescent | Melbourne | Vic   | 3155 | Visa     | 4532411343848790 | 09/22   |
+-&gt; done: PlaceOrder.WhenUserProvidesTheMandatoryFieldsForTheOrder(&lt;table&gt;) (0.7s)
+And user clicks on the process button
+-&gt; done: PlaceOrder.WhenUserClicksOnTheProcessButton() (0.4s)
+Then verify the order is placed
+-&gt; done: PlaceOrder.ThenVerifyTheOrderIsPlaced() (0.0s)
+When user clicks on the logout button
+-&gt; done: TestCompleteLogin.WhenUserClicksOnTheLogoutButton() (1.0s)
+Then verify the user is successfully logged out
+-&gt; done: TestCompleteLogin.ThenVerifyTheUserIsSuccessfullyLoggedOut() (0.0s)
+AfterScenario Hook</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b8cee2c8-4c53-4b5e-9fc1-b71d5b23da99" testId="d26bdd6c-72fc-ca90-35d5-492a0f1050a0" testName="UpdateTheQuantityOfTheOrder_MyMoney" computerName="DESKTOP-D0695VE" duration="00:00:05.5037942" startTime="2019-04-11T23:38:44.0075955+10:00" endTime="2019-04-11T23:38:49.5132748+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b8cee2c8-4c53-4b5e-9fc1-b71d5b23da99">
+      <Output>
+        <StdOut>Given user have visited the testcomplete home page
+-&gt; done: TestCompleteLogin.GivenUserHaveVisitedTheTestcompleteHomePage() (0.5s)
+And user is not logged in
+-&gt; done: TestCompleteLogin.GivenUserIsNotLoggedIn() (0.0s)
+And user logs in
+-&gt; done: TestCompleteLogin.GivenUserLogsIn() (1.0s)
+Given user clicks on Order button
+-&gt; done: PlaceOrder.GivenUserClicksOnOrderButton() (0.4s)
+When user provides the mandatory fields for the order
+  --- table step argument ---
+  | Product | Quantity | CustomerName | Street         | City      | State | Zip  | CardType | CardNo           | ExpDate |
+  | MyMoney | 2        | Namresh      | Tulip Crescent | Melbourne | Vic   | 3155 | Visa     | 4532411343848790 | 09/22   |
+-&gt; done: PlaceOrder.WhenUserProvidesTheMandatoryFieldsForTheOrder(&lt;table&gt;) (0.8s)
+And user clicks on the process button
+-&gt; done: PlaceOrder.WhenUserClicksOnTheProcessButton() (0.3s)
+Then verify the order is placed
+-&gt; done: PlaceOrder.ThenVerifyTheOrderIsPlaced() (0.0s)
+And user clicks on view all orders
+-&gt; done: PlaceOrder.ThenUserClicksOnViewAllOrders() (0.4s)
+And clicks on the edit button for the newly created order
+-&gt; done: PlaceOrder.ThenClicksOnTheEditButtonForTheNewlyCreatedOrder() (0.4s)
+And update the quantity of the order to "3"
+-&gt; done: PlaceOrder.ThenUpdateTheQuantityOfTheOrderTo(3) (0.6s)
+Then verify the order quantity is updated
+-&gt; done: PlaceOrder.ThenVerifyTheOrderQuantityIsUpdated() (0.0s)
+When user clicks on the logout button
+-&gt; done: TestCompleteLogin.WhenUserClicksOnTheLogoutButton() (1.1s)
+Then verify the user is successfully logged out
+-&gt; done: TestCompleteLogin.ThenVerifyTheUserIsSuccessfullyLoggedOut() (0.0s)
+AfterScenario Hook</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c142cfd0-f2db-4760-9c65-1c59e1864d7b" testId="49d40621-d345-379d-60ad-ae53ba83f07f" testName="SuccessfulLogin_Tester" computerName="DESKTOP-D0695VE" duration="00:00:02.7763214" startTime="2019-04-11T23:38:49.5343076+10:00" endTime="2019-04-11T23:38:52.3146191+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c142cfd0-f2db-4760-9c65-1c59e1864d7b">
+      <Output>
+        <StdOut>Given user have visited the testcomplete home page
+-&gt; done: TestCompleteLogin.GivenUserHaveVisitedTheTestcompleteHomePage() (0.6s)
+Given user is not logged in
+-&gt; done: TestCompleteLogin.GivenUserIsNotLoggedIn() (0.0s)
+When user enters username in the username textbox as "Tester"
+-&gt; done: TestCompleteLogin.WhenUserEntersUsernameInTheUsernameTextboxAs("Tester") (0.1s)
+And user enters password in the password textbox as "test"
+-&gt; done: TestCompleteLogin.WhenUserEntersPasswordInThePasswordTextboxAs("test") (0.1s)
+And user clicks on Login button
+-&gt; done: TestCompleteLogin.WhenUserClicksOnLoginButton() (0.9s)
+Then verify the user is successfully logged in
+-&gt; done: TestCompleteLogin.ThenVerifyTheUserIsSuccessfullyLoggedIn() (0.0s)
+When user clicks on the logout button
+-&gt; done: TestCompleteLogin.WhenUserClicksOnTheLogoutButton() (1.0s)
+Then verify the user is successfully logged out
+-&gt; done: TestCompleteLogin.ThenVerifyTheUserIsSuccessfullyLoggedOut() (0.0s)
+AfterScenario Hook</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="116b0cb5-a36f-4df5-ba23-05750377911b" testId="c0c0d9f2-5cdf-4251-6939-05613ca060e2" testName="SuccessfulLogout_Tester" computerName="DESKTOP-D0695VE" duration="00:00:02.4070796" startTime="2019-04-11T23:38:52.3205880+10:00" endTime="2019-04-11T23:38:54.7290466+10:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="116b0cb5-a36f-4df5-ba23-05750377911b">
+      <Output>
+        <StdOut>Given user have visited the testcomplete home page
+-&gt; done: TestCompleteLogin.GivenUserHaveVisitedTheTestcompleteHomePage() (0.5s)
+Given user is not logged in
+-&gt; done: TestCompleteLogin.GivenUserIsNotLoggedIn() (0.0s)
+When user enters username in the username textbox as "Tester"
+-&gt; done: TestCompleteLogin.WhenUserEntersUsernameInTheUsernameTextboxAs("Tester") (0.1s)
+And user enters password in the password textbox as "test"
+-&gt; done: TestCompleteLogin.WhenUserEntersPasswordInThePasswordTextboxAs("test") (0.1s)
+And user clicks on Login button
+-&gt; done: TestCompleteLogin.WhenUserClicksOnLoginButton() (0.8s)
+Then verify the user is successfully logged in
+-&gt; done: TestCompleteLogin.ThenVerifyTheUserIsSuccessfullyLoggedIn() (0.0s)
+When user clicks on the logout button
+-&gt; done: TestCompleteLogin.WhenUserClicksOnTheLogoutButton() (1.0s)
+Then verify the user is successfully logged out
+-&gt; done: TestCompleteLogin.ThenVerifyTheUserIsSuccessfullyLoggedOut() (0.0s)
+AfterScenario Hook</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,13 @@
+20-Aug-2018-11:18:56 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+20-Aug-2018-11:19:00 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+20-Aug-2018-11:20:51 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Change the order of the sports.jpeg
+20-Aug-2018-11:20:51 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+20-Aug-2018-11:21:33 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+20-Aug-2018-11:21:36 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+20-Aug-2018-11:21:44 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+20-Aug-2018-11:23:46 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+20-Aug-2018-11:29:21 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+20-Aug-2018-11:29:24 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+20-Aug-2018-11:29:32 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page http://bgau-umbraco.azurewebsites.net/
+20-Aug-2018-11:32:24 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Change the order of the sports.jpeg
+20-Aug-2018-11:32:24 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  

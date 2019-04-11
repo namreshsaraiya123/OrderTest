@@ -1,0 +1,10 @@
+02-Nov-2018-11:45:29 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+02-Nov-2018-11:45:33 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+02-Nov-2018-11:46:18 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+02-Nov-2018-11:47:32 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify correct race number for Extra double market.jpeg
+02-Nov-2018-11:47:34 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
+02-Nov-2018-15:30:02 [TBSUI.BaseClasses.BaseClass] [INFO] [GetChromeOptions] -  Using Chrome Options 
+02-Nov-2018-15:30:05 [TBSUI.BaseClasses.BaseClass] [INFO] [InitWebdriver] -  Using Chrome Driver  
+02-Nov-2018-15:30:17 [TBSUI.ComponentHelper.NavigationHelper] [INFO] [NavigateToUrl] -  Navigate To Page https://tbs-bb-dev.azurewebsites.net/
+02-Nov-2018-15:31:47 [TBSUI.ComponentHelper.GenericHelper] [INFO] [TakeScreenShot] -  ScreenShot Taken : Verify correct race number for Extra double market.jpeg
+02-Nov-2018-15:31:50 [TBSUI.BaseClasses.BaseClass] [INFO] [TearDown] -  Stopping the Driver  
